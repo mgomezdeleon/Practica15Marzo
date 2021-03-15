@@ -22,7 +22,7 @@ public class TablasMultiplicar {
 		
 		int tablas=10;
 		
-		for(int i=1;i<tablas;i++) {
+		for(int i=1;i<=tablas;i++) {
 			
 			System.out.println("\n----------\n"
 					+ "Tabla del " + i + 
